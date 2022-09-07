@@ -1,5 +1,5 @@
-Linux_image="http://developer.download.nvidia.com/mobile/tegra/l4t/r21.2.0/pm375_release_armhf/Tegra124_Linux_R21.2.0_armhf.tbz2"
-Linux_file_system="http://developer.download.nvidia.com/mobile/tegra/l4t/r21.2.0/pm375_release_armhf/Tegra_Linux_Sample-Root-Filesystem_R21.2.0_armhf.tbz2"
+Linux_image="http://developer.download.nvidia.com/mobile/tegra/l4t/r21.8.0/pm375_release_armhf/Tegra124_Linux_R21.8.0_armhf.tbz2"
+Linux_file_system="http://developer.download.nvidia.com/mobile/tegra/l4t/r21.8.0/pm375_release_armhf/Tegra_Linux_Sample-Root-Filesystem_R21.8.0_armhf.tbz2"
 
 echo  "This script will help you flash Linux for Tegra on Jetson"
 #Download options  
